@@ -1,0 +1,50 @@
+
+1692362461832:::1 GET:/api/users
+
+1692362502973:::1 POST:/api/users
+
+1692362535261:::1 GET:/api/users/64df67063a3e409817ff8bf5
+
+1692362544537:::1 PATCH:/api/users/64df67063a3e409817ff8bf5
+
+1692362586096:::1 DELETE:/api/users/64df67063a3e409817ff8bf5
+
+1703499872225:::1 GET:/
+
+1703499886453:::1 GET:/api/users
+
+1703499886538:::1 GET:/favicon.ico
+
+1703500472167:::1 GET:/api/users
+
+1703500547765:::1 GET:/api/users
+
+1703500552497:::1 GET:/api/users
+
+1703500626988:::1 POST:/api/users
+
+1703500681580:::1 POST:/api/users
+
+1703500768960:::1 POST:/api/users
+
+1703500794331:::1 POST:/api/users
+
+1703500814912:::1 POST:/api/users
+
+1703500831712:::1 POST:/api/users
+
+1703500910801:::1 GET:/api/users
+
+1703500927576:::1 POST:/api/users
+
+1703500961070:::1 POST:/api/users
+
+1703501102304:::1 POST:/api/users
+
+1703501132839:::1 POST:/api/users
+
+1703501143533:::1 POST:/api/users
+
+1703501223757:::1 POST:/api/users
+
+1703501393373:::1 GET:/api/users
